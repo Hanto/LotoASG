@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loteria Resultados</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_prueba">Scanner</string>
+    
+    <string-array name="sorteos_array">
+        <item>Bonoloto</item>
+        <item>Euromillones</item>
+        <item>El Gordo</item>
+        <item>LotoTurf</item>
+        <item>Nacional</item>
+        <item>Primitiva</item>
+        <item>QPlus</item>
+        <item>Quiniela</item>
+         <item>Quinigol</item>
+    </string-array>
+
+</resources>
